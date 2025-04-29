@@ -1,7 +1,7 @@
 ---
 title: "Java Simplified"
 description: ""
-lead: "Congrats on deciding to learn Java!"
+lead: "Tired of tutorials that assume you already know everything? <br> We’re reimagining Java education from the ground up — one concept at a time. Whether you're just starting out or need to solidify your foundations, Java Simplified is your personalized roadmap to coding confidence. Learn faster. Think deeper. Build smarter."
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
 draft: false

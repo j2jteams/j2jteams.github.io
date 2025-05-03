@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Docs"
-  url = "/docs/guides/test-guide/"
+  url = "/docs/guides/ai/a-brief-history-purpose-of-learning-ai-artificial-intelligence/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 

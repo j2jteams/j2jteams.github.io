@@ -1,5 +1,5 @@
 ---
-title: "AI Simplified"
+title: "Simplify AI"
 description: ""
 lead: "From Confused to Confident — One Step at a Time"
 lead: "People who use AI will replace those who don’t—but AI itself won’t replace software developers."
